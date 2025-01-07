@@ -21,13 +21,3 @@
 .form-control textarea:focus {
   outline-color: #00695c;
 }
-
-.form-layout {
-  margin: 0px;
-  padding: 0px;
-}
-
-.form-controls {
-  margin: 0px;
-  padding: 0px;
-}
